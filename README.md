@@ -36,13 +36,7 @@ Currently exploring **blockchain**, **IoT**, and **eco-friendly digital solution
 
 ### 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css,recharts" />
-<img src="https://skillicons.dev/icons?i=flutter,c++,c,python,assembly,sql,java" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,neon" />
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,web3,hardhat,reown,pinata,metamask,firebase" />
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
-
-
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css,recharts,flutter,c++,c,python,assembly,sql,java,nodejs,express,mongodb,postgres,neon,solidity,ethereum,web3,hardhat,reown,pinata,metamask,firebase,git,github,postman,docker,vscode" />
 
 
 
