@@ -24,9 +24,6 @@ Currently exploring **blockchain**, **IoT**, and **eco-friendly digital solution
   <a href="https://www.linkedin.com/in/eya-khandoudi-37324936b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  <a href="mailto:khandoudiaya@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-  </a>
   <a href="https://www.instagram.com/e.y.a_k.d/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
