@@ -10,14 +10,14 @@
 I'm passionate about building **smart, sustainable technologies** that create real-world impact.  
 Currently exploring **blockchain**, **IoT**, and **eco-friendly digital solutions** through my project **EcoTrack** — an e-waste tracking app using blockchain.  
 
----
+
 
 ### 🧠 About Me
 - 🌱 I’m learning more about ERP systems
 - 💬 Ask me about **Blockchain, React, Tailwind CSS, Node.js, AI, and sustainable tech**
 - 📫 How to reach me: **khandoudiaya@gmail.com**
 
----
+
 
 ### 🌐 Connect with me
 <p align="left">
@@ -32,26 +32,19 @@ Currently exploring **blockchain**, **IoT**, and **eco-friendly digital solution
   </a>
 </p>
 
----
+
 
 ### 🛠️ Languages & Tools
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css,recharts" />
-  <img src="https://skillicons.dev/icons?i=flutter" />
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-
-  <!-- Blockchain -->
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css,recharts" />
+<img src="https://skillicons.dev/icons?i=flutter,c++,c,python,assembly,sql,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,neon" />
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,web3,hardhat,reown,pinata,metamask,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
 
 
----
+
+
 
 ### 📈 GitHub Stats
 
