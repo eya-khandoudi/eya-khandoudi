@@ -42,37 +42,22 @@ Currently exploring **blockchain**, **IoT**, and **eco-friendly digital solution
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
   <img src="https://skillicons.dev/icons?i=html" height="40" />
   <img src="https://skillicons.dev/icons?i=css" height="40" />
-  <img src="https://skillicons.dev/icons?i=recharts" height="40" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=flutter" height="40" />
   <img src="https://skillicons.dev/icons?i=c" height="40" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" />
   <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img src="https://skillicons.dev/icons?i=java" height="40" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
   <img src="https://skillicons.dev/icons?i=express" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img src="https://skillicons.dev/icons?i=neon" height="40" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=solidity" height="40" />
   <img src="https://skillicons.dev/icons?i=ethereum" height="40" />
   <img src="https://skillicons.dev/icons?i=web3" height="40" />
   <img src="https://skillicons.dev/icons?i=hardhat" height="40" />
-  <img src="https://skillicons.dev/icons?i=reown" height="40" />
   <img src="https://skillicons.dev/icons?i=pinata" height="40" />
   <img src="https://skillicons.dev/icons?i=metamask" height="40" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" />
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" />
