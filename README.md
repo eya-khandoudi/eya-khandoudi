@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img width="100%" alt="github-header-banner" src="https://github.com/user-attachments/assets/ae2a4fd9-41ce-4dc1-9c62-a1cedada7e75" />
+</p>
 
-<!--
-**eya-khandoudi/eya-khandoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Eya Khandoudi
 
-Here are some ideas to get you started:
+🎓 Software Engineering Student | 💻 Web & Mobile Developer | 🌿 Eco-Innovation Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building **smart, sustainable technologies** that create real-world impact.  
+Currently exploring **blockchain**, **IoT**, and **eco-friendly digital solutions** through my project **EcoTrack** — an e-waste tracking app using blockchain.  
+
+---
+
+### 🧠 About Me
+- 🌱 I’m learning more about ERP systems
+- 💬 Ask me about **Blockchain, React, Tailwind CSS, Node.js, AI, and sustainable tech**
+- 📫 How to reach me: **khandoudiaya@gmail.com**
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/eya-khandoudi-37324936b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="mailto:khandoudiaya@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  <a href="https://www.instagram.com/e.y.a_k.d/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+  <a href="https://www.facebook.com/kh.ayaaaaaaaa/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css,recharts" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+
+  <!-- Blockchain -->
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eya-khandoudi&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eya-khandoudi&theme=radical" alt="GitHub streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-khandoudi&layout=compact&theme=radical" alt="Top languages" width="48%" />
+</p>
+
+---
+
+⭐ *“Code with purpose, create for impact.”*
