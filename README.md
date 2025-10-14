@@ -8,7 +8,7 @@
 🎓 Software Engineering Student | 💻 Web & Mobile Developer | 🌿 Eco-Innovation Enthusiast  
 
 I'm passionate about building **smart, sustainable technologies** that create real-world impact.  
-Currently exploring **blockchain**, **IoT**, and **eco-friendly digital solutions** through my project **EcoTrack** — an e-waste tracking app using blockchain.  
+
 
 
 
