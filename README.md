@@ -90,12 +90,12 @@ Currently exploring **blockchain**, **IoT**, and **eco-friendly digital solution
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eya-khandoudi&show_icons=true&title_color=0a66c2&icon_color=ff6f00&text_color=000&bg_color=ffffff" alt="Eya Khandoudi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eya-khandoudi&theme=default&background=ffffff&ring=0a66c2&fire=ff6f00&currStreakLabel=ff6f00" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eya-khandoudi&show_icons=true&count_private=true&title_color=0a66c2&icon_color=ff6f00&text_color=000&bg_color=ffffff" alt="Eya Khandoudi's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=eya-khandoudi&theme=default&background=ffffff&ring=0a66c2&fire=ff6f00&currStreakLabel=ff6f00" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-khandoudi&layout=compact&title_color=0a66c2&text_color=000&bg_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-khandoudi&layout=compact&langs_count=6&show_icons=true&count_private=true&title_color=0a66c2&text_color=000&bg_color=ffffff" alt="Top Languages" width="48%" />
 </p>
 
 ---
