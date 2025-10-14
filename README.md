@@ -86,11 +86,11 @@ Currently exploring **blockchain**, **IoT**, and **eco-friendly digital solution
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eya-khandoudi&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=eya-khandoudi&label=Profile%20Views&color=0a66c2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eya-khandoudi&show_icons=true&theme=default&title_color=0a66c2&icon_color=79ff97&text_color=000&bg_color=ffffff" alt="Eya Khandoudi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eya-khandoudi&show_icons=true&title_color=0a66c2&icon_color=ff6f00&text_color=000&bg_color=ffffff" alt="Eya Khandoudi's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eya-khandoudi&theme=default&background=ffffff&ring=0a66c2&fire=ff6f00&currStreakLabel=ff6f00" width="48%" />
 </p>
 
