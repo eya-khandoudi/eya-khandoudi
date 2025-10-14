@@ -86,17 +86,23 @@ Currently exploring **blockchain**, **IoT**, and **eco-friendly digital solution
 ### 📈 GitHub Stats
 
 <p align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=eya-khandoudi&label=Profile%20Views&color=0a66c2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eya-khandoudi&show_icons=true&count_private=true&title_color=0a66c2&icon_color=ff6f00&text_color=000&bg_color=ffffff" alt="Eya Khandoudi's GitHub Stats" width="48%" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=eya-khandoudi&show_icons=true&count_private=true&title_color=0a66c2&icon_color=ff6f00&text_color=000&bg_color=ffffff" width="48%" alt="Eya Khandoudi's GitHub Stats" />
+
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.demolab.com/?user=eya-khandoudi&theme=default&background=ffffff&ring=0a66c2&fire=ff6f00&currStreakLabel=ff6f00" width="48%" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-khandoudi&layout=compact&langs_count=6&show_icons=true&count_private=true&title_color=0a66c2&text_color=000&bg_color=ffffff" alt="Top Languages" width="48%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-khandoudi&layout=compact&langs_count=6&show_icons=true&count_private=true&title_color=0a66c2&text_color=000&bg_color=ffffff" width="48%" alt="Top Languages" />
 </p>
+
 
 ---
 
