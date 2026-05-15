@@ -86,22 +86,30 @@ I'm passionate about building **smart, sustainable technologies** that create re
 ### 📈 GitHub Stats
 
 <p align="center">
-  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=eya-khandoudi&label=Profile%20Views&color=0a66c2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=eya-khandoudi&show_icons=true&count_private=true&title_color=0a66c2&icon_color=ff6f00&text_color=000&bg_color=ffffff" width="48%" alt="Eya Khandoudi's GitHub Stats" />
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=eya-khandoudi&theme=default&background=ffffff&ring=0a66c2&fire=ff6f00&currStreakLabel=ff6f00" width="48%" alt="GitHub Streak Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=eya-khandoudi&show_icons=true&hide_border=true&title_color=0a66c2&icon_color=ff6f00&text_color=1f2328&bg_color=ffffff"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=eya-khandoudi&hide_border=true&background=ffffff&ring=0a66c2&fire=ff6f00&currStreakLabel=ff6f00"
+    height="165"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-khandoudi&layout=compact&langs_count=6&show_icons=true&count_private=true&title_color=0a66c2&text_color=000&bg_color=ffffff" width="48%" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-khandoudi&layout=compact&langs_count=8&hide_border=true&title_color=0a66c2&text_color=1f2328&bg_color=ffffff"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
+
 
 
 ---
