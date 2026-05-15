@@ -91,26 +91,24 @@ I'm passionate about building **smart, sustainable technologies** that create re
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=eya-khandoudi&show_icons=true&hide_border=true&title_color=0a66c2&icon_color=ff6f00&text_color=1f2328&bg_color=ffffff"
-    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api?username=eya-khandoudi&show_icons=true&hide_border=true&title_color=0a66c2&icon_color=ff6f00&text_color=1f2328&bg_color=ffffff"
+    width="49%"
     alt="GitHub Stats"
   />
   <img
     src="https://streak-stats.demolab.com?user=eya-khandoudi&hide_border=true&background=ffffff&ring=0a66c2&fire=ff6f00&currStreakLabel=ff6f00"
-    height="165"
+    width="49%"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-khandoudi&layout=compact&langs_count=8&hide_border=true&title_color=0a66c2&text_color=1f2328&bg_color=ffffff"
-    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eya-khandoudi&layout=compact&langs_count=8&hide_border=true&title_color=0a66c2&text_color=1f2328&bg_color=ffffff"
+    width="60%"
     alt="Top Languages"
   />
 </p>
-
-
 
 ---
 
